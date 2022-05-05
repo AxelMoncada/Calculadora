@@ -93,3 +93,8 @@ height: 100vh;
     margin: 0px 0 15px 0;
     padding-bottom: 20px;
 }
+@media only screen and (max-width: 830px) {
+    .container{
+        width: 90%;
+    }
+}
